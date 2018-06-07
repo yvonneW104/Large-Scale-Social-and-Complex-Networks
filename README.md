@@ -13,3 +13,6 @@
     - Reinforcement learning (RL)
     - Optimal policy learning using RL algorithms
     - Inverse Reinforcement learning (IRL)
+- Project #4: IMDb Mining
+    - Actor/Actress network
+    - Movie network
