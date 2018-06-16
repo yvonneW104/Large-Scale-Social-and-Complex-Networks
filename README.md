@@ -16,3 +16,7 @@
 - Project #4: IMDb Mining
     - Actor/Actress network
     - Movie network
+- Project #5: Graph Algorithms
+    - Stock Market
+    - Minimum Spanning Tree and Traveling Salesman Problem
+    - Analysing the Traffic Flow
